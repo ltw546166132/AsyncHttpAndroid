@@ -1,1 +1,2 @@
 # AsyncHttpAndroid
+利用第三方开源库实现Android的http,get和post请求
